@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+<style>
+		table, td, th{
+			border: 1px solid black;
+			border - collapse: collapse;
+			text - allign: centre;
+		}
+	</style>
